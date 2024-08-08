@@ -1,0 +1,8 @@
+{
+    "pdfs": ["https://www.redhat.com/licenses/Appendix_1_Global_English_20231205.pdf"],
+    "websites": [
+        "https://www.redhat.com/en/resources/self-managed-openshift-subscription-guide",
+        "https://www.redhat.com/en/resources/red-hat-enterprise-linux-subscription-guide",
+        "https://www.redhat.com/en/resources/application-services-subscription-guide-detail"
+    ]
+}

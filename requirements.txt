@@ -3,8 +3,8 @@ langchain-community==0.2.11
 langchain-core==0.2.28
 langchain-openai==0.1.20
 langchain-text-splitters==0.2.2
-langchain-huggingface
-langchain-milvus
+langchain-huggingface==0.0.3
+langchain-milvus==0.1.4
 langchainhub==0.1.20
 langsmith==0.1.96
 pypdf==4.0.2 
@@ -12,5 +12,4 @@ pymilvus==2.4.3
 sentence-transformers==2.6.0
 python-dotenv==1.0.1
 einops==0.7.0
-beautifulsoup4
-urllib2
+beautifulsoup4==4.12.3
